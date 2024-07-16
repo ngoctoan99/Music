@@ -1,4 +1,4 @@
-# Timber
+# Clone Music App
 [![Build Status](https://travis-ci.org/naman14/Timber.svg?branch=master)](https://travis-ci.org/naman14/Timber)
 
 Material Design Music Player
