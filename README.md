@@ -1,10 +1,4 @@
 # Clone Music App
-[![Build Status](https://travis-ci.org/naman14/Timber.svg?branch=master)](https://travis-ci.org/naman14/Timber)
-
-Material Design Music Player
-
-This project is no longer in active development. Please refer to [TimberX](https://github.com/naman14/TimberX) instead
-
 
 ## Screenshots
 
